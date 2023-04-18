@@ -1,7 +1,7 @@
 # book-management-app
 
 ### Steps to run
-- cd to book-mgt-app
+- cd to book-management-app
 - run `npm install`
 - run `npm start`
 
