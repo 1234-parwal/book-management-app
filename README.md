@@ -13,3 +13,4 @@
 - Upon registeration, you will be redirected to user dashboard where you can add/list books.
 - Logout option is available below user profile.
 - User your email & password which you used while registering to login again to your dashboard.
+-Rating to a particular book can also be given.
